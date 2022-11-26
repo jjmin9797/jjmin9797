@@ -1,3 +1,7 @@
+![스크린샷 2022-11-27 오전 2 12 48](https://user-images.githubusercontent.com/51317476/204100824-b990cbaa-32c4-414d-9985-79cfd7bd17d2.png)
+
+
+
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjmin9797&show_icons=true&theme=dark)
 <!--
