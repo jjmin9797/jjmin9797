@@ -1,4 +1,5 @@
-![스크린샷 2022-11-27 오전 2 12 48](https://user-images.githubusercontent.com/51317476/204100824-b990cbaa-32c4-414d-9985-79cfd7bd17d2.png)
+![스크린샷 2022-11-27 오전 2 17 02](https://user-images.githubusercontent.com/51317476/204100955-eff161d5-3cb9-4de1-9162-40aac0405678.png)
+
 
 
 
