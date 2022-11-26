@@ -1,13 +1,11 @@
-<p align="center">
-    <img width="1000" height="250" src="https://user-images.githubusercontent.com/51317476/204100955-eff161d5-3cb9-4de1-9162-40aac0405678.png">
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=WELCOME%20TO%20MY%20GITHUB&fontSize=60)
 
 
 
-### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjmin9797&show_icons=true&theme=dark)
+
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjmin9797&show_icons=true&theme=dark)-->
 <!--
 **jjmin9797/jjmin9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
