@@ -1,5 +1,5 @@
 <p align="center">
-![스크린샷 2022-11-27 오전 2 17 02](https://user-images.githubusercontent.com/51317476/204100955-eff161d5-3cb9-4de1-9162-40aac0405678.png)
+    <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/51317476/204100955-eff161d5-3cb9-4de1-9162-40aac0405678.png)">
 </p>
 
 
