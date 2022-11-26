@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
     
-    <p align="center">
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jjmin9797&show_icons=true&theme=dark">
 </p>
